@@ -9,8 +9,12 @@ int main()
     // std::cout<<"Hello\nNew line old";
     // std::cout<<"Hello" <<std::endl <<"New line";
     // print variable in c++
-    int n = 10;
-    int m = 20;
-    cout<<n <<" " <<m;
+    // int n = 10;
+    // int m = 20;
+    // cout<<n <<" " <<m;
+    // take input
+    int a, b;
+    cin>>a>>b;
+    cout<<a<<b;
     return 0;
 }
